@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/Atenea/Documents/NetBeansProjects/DAM_M06_T01_ACT_01_JuanLuisGomezGarcia/../../../Desktop/proyecto/incidenias.xsd" uri="xml-resources/jaxb/claseIncidencias/incidenias.xsd"/>
+</catalog>

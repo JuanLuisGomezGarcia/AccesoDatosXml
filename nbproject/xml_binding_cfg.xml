@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<schemas xmlns='http://xml.netbeans.org/schema/JAXBWizConfig' destdir='build/generated-sources/jaxb' projectName='DAM_M06_T01_ACT_01_JuanLuisGomezGarcia' version='1.0'>
+	<schema type='-xmlschema' package='' name='claseIncidencias'>
+		<xjc-options>
+		</xjc-options>
+		<schema-sources>
+			<schema-source location='xml-resources/jaxb/claseIncidencias/incidenias.xsd' origLocation='../../../Desktop/proyecto/incidenias.xsd'/>
+		</schema-sources>
+		<bindings>
+		</bindings>
+		<catalog/>
+	</schema>
+</schemas>
